@@ -41,7 +41,7 @@
     </main>
     <footer>
       <p>
-        No Copyright - <a href="https://www.freecodecamp.org">learncode.org</a>
+        No Copyright - <a href="https://www.freecodecamp.org">freecodecamp.org</a>
       </p>
     </footer>
   </body>
